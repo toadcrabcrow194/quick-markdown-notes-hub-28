@@ -1,2 +1,9 @@
-# quick-markdown-notes-hub-28
-A simple markdown notes project
+# Markdown Notes
+
+A simple markdown notes project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
